@@ -1,0 +1,28 @@
+name: advyon
+favicon: null
+layout_spectrum: 0.755185630870983
+typography_spectrum: 0.5061905267648399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6342178338672966
+  lightness: 0.17574813147075474
+  saturation: 0.3911509858444333
+  rhythmicContrast: 0.41963461018167436
+purpose: []
